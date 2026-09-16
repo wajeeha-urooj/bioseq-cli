@@ -375,7 +375,7 @@ Planned improvements include:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Wajeeha Urooj**
 
