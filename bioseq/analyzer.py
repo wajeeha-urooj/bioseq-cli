@@ -111,3 +111,4 @@ def calculate_sequence_entropy(records):
         record.id: sequence_entropy(str(record.seq).upper())
         for record in records
     }
+    
