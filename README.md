@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python\&logoColor=white)](https://www.python.org/)
 [![Biopython](https://img.shields.io/badge/Biopython-Bioinformatics-green)](https://biopython.org/)
 [![Tests](https://img.shields.io/badge/Tests-Pytest-orange?logo=pytest)](https://pytest.org/)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wajeeha-urooj/bioseq-cli/blob/main/notebooks/BioSeq-CLI-Development.ipynb)
+
 
 A reusable Python command-line toolkit for **protein FASTA sequence analysis, computational quality control, sequence statistics, and sequence diversity analysis**.
 
@@ -15,7 +15,7 @@ A reusable Python command-line toolkit for **protein FASTA sequence analysis, co
 
 Explore and run the complete exploratory workflow in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wajeeha-urooj/bioseq-cli/blob/main/notebooks/BioSeq-CLI-Development.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wajeeha-urooj/bioseq-cli/blob/main/notebooks/BioSeq-CLI-Development.ipynb)
 
 The notebook demonstrates the development and testing of BioSeq-CLI using a real protein FASTA dataset obtained from UniProt.
 
